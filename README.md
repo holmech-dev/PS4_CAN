@@ -6,8 +6,10 @@ A Python program to send PS4 Controller inputs over CAN.
 ## Prerequisites
 
 1. Ubuntu PC (16.04 or later)
-2. pip install can pygame colorama
-
+2. Install Python libraries
+    ```bash
+    pip install can pygame colorama
+    ```
 
 ## Usage
 
