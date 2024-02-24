@@ -1,6 +1,6 @@
 # Communicating PS4 controller inputs on CAN
 
-A Python program to send PS4 Controller inputs over CAN.
+A Python program to transmit PS4 Controller inputs on CAN.
 
 
 ## Prerequisites
